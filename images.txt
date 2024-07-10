@@ -1,5 +1,6 @@
 nginx
 minio/minio:latest
+emqx/emqx:latest
 jupyter/all-spark-notebook:latest
 jupyter/datascience-notebook:latest
 #支持私库
